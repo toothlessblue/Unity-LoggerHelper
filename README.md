@@ -1,3 +1,5 @@
 # Unity Logger Helper
- 
-Should be cloned using submodules into the assets directory
+
+Clone this repo into the assets folder with
+
+`git submodule add git@github.com:toothlessblue/Unity-LoggerHelper.git Assets/Unity-LoggerHelper`
